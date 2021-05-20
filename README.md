@@ -1,2 +1,2 @@
 # garagepoort5TIIC
- garagepoort5TIIC
+Code van Garagepoort(DC) met arduino
